@@ -42,5 +42,5 @@
 <br>
 
 
-Para saber mais, visite: [42 Rio](https://www.42rio.com/)
+Para saber mais, visite: [42 Rio](https://42.rio/)
   
