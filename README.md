@@ -7,26 +7,26 @@
 
 | Projeto        	| PDF                                                                                         |
 |----------------	|--------------------------------------------------------------------------------------------	|
-| Shell00         	| [10 exercícios]() |
-| Shell01         	| [9 exercícios]() |
-| C00         	| [9 exercícios]()           	 |
-| C01         	| [9 exercícios]()          	|
-| C02         	| [13 exercícios]()          	| 
-| C03         	| [6 exercícios]()          	|
-| C04         	| [6 exercícios]()           	|
-| C05         	| [9 exercícios]()           	|
-| C06         	| [4 exercícios]()           	|
-| C07         	| [6 exercícios]()            |
-| C08         	| [6 exercícios]()          	| 
-| C09         	| [3 exercícios]()          	|
-| C10         	| [4 exercícios]()           	|
-| C11         	| [8 exercícios]()          	|
-| C12         	| [18 exercícios]()          	|
-| C13         	| [8 exercícios]()          	|
-| Rush 00        	| [Print rectangles]() 	|
-| Rush 01        	| [Idk]()    	|
-| Rush 02        	| [Number Dict]() 	|
-| BSQ            	| [Big Square]()                     	|
+| Shell00         	| [10 exercícios](https://github.com/Cellygomesz/piscina42Rio/tree/main/pdfs) |
+| Shell01         	| [9 exercícios](https://github.com/Cellygomesz/piscina42Rio/tree/main/pdfs) |
+| C00         	| [9 exercícios](https://github.com/Cellygomesz/piscina42Rio/tree/main/pdfs)           	 |
+| C01         	| [9 exercícios](https://github.com/Cellygomesz/piscina42Rio/tree/main/pdfs)          	|
+| C02         	| [13 exercícios](https://github.com/Cellygomesz/piscina42Rio/tree/main/pdfs)          	| 
+| C03         	| [6 exercícios](https://github.com/Cellygomesz/piscina42Rio/tree/main/pdfs)          	|
+| C04         	| [6 exercícios](https://github.com/Cellygomesz/piscina42Rio/tree/main/pdfs)           	|
+| C05         	| [9 exercícios](https://github.com/Cellygomesz/piscina42Rio/tree/main/pdfs)           	|
+| C06         	| [4 exercícios](https://github.com/Cellygomesz/piscina42Rio/tree/main/pdfs)           	|
+| C07         	| [6 exercícios](https://github.com/Cellygomesz/piscina42Rio/tree/main/pdfs)            |
+| C08         	| [6 exercícios](https://github.com/Cellygomesz/piscina42Rio/tree/main/pdfs)          	| 
+| C09         	| [3 exercícios](https://github.com/Cellygomesz/piscina42Rio/tree/main/pdfs)          	|
+| C10         	| [4 exercícios](https://github.com/Cellygomesz/piscina42Rio/tree/main/pdfs)           	|
+| C11         	| [8 exercícios](https://github.com/Cellygomesz/piscina42Rio/tree/main/pdfs)          	|
+| C12         	| [18 exercícios](https://github.com/Cellygomesz/piscina42Rio/tree/main/pdfs)          	|
+| C13         	| [8 exercícios](https://github.com/Cellygomesz/piscina42Rio/tree/main/pdfs)          	|
+| Rush 00        	| [Print rectangles](https://github.com/Cellygomesz/piscina42Rio/tree/main/pdfs) 	|
+| Rush 01        	| [Idk](https://github.com/Cellygomesz/piscina42Rio/tree/main/pdfs)    	|
+| Rush 02        	| [Number Dict](https://github.com/Cellygomesz/piscina42Rio/tree/main/pdfs) 	|
+| BSQ            	| [Big Square](https://github.com/Cellygomesz/piscina42Rio/tree/main/pdfs)                     	|
 
 <br>
 
