@@ -5,6 +5,21 @@
 
 <br>
 
+### **Resumo da Piscine (sem Spoilers)** <br/>
+- Os projetos não tem prazo para entrega. <br/>
+- Os projetos podem ser submetidos quantas vezes for necessário.
+- Antes do primeiro exame estude Git, `add`, `commit`, `push` são indispensáveis.
+- Todas as sextas-feiras há exame, portanto separe um tempo para estudar.
+- Assim que as inscrições para o exame começarem **INSCREVA-SE!**
+- Todo fim de semana há Rush, empenhe-se a entragar o Rush00 os demais são mais trabalhosos.
+- Se não for fazer o Rush não se inscreva.
+- Não copie.
+- Aprenda VIM, não seja chato!, não é tão mal `:q`
+- Aprenda gdb e valgrind, vão salvar sua vida na terceira semana. `man gdb`, `man valgrind`
+- Viva e aproveite a experiência da Piscine, há coisas que é melhor aprender lá, portanto evite spoilers.
+
+<br>
+
 | Projeto        	| PDF                                                                                         |
 |----------------	|--------------------------------------------------------------------------------------------	|
 | Shell00         	| [10 exercícios](https://github.com/Cellygomesz/piscina42Rio/tree/main/pdfs) |
